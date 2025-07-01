@@ -81,3 +81,15 @@
 06:46:26.541 [main] INFO  testCases.TC003_LoginTestDDT - End of TC003_LoginTestDDT
 06:46:26.545 [main] INFO  testCases.TC003_LoginTestDDT - Starting of TC003_LoginTestDDT
 06:46:37.529 [main] INFO  testCases.TC003_LoginTestDDT - End of TC003_LoginTestDDT
+06:22:36.875 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Srini_Automation\Workspace1\OpencartV122\master.xml"
+06:22:41.670 [main] INFO  testCases.TC002_LoginTest - Starting of TC002_LoginTest
+06:23:41.263 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Srini_Automation\Workspace1\OpencartV122\master.xml"
+06:23:45.653 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting of TC001_AccountRegistrationTest
+06:23:46.197 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+06:23:47.332 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+06:23:47.335 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+06:23:48.539 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Privacy Policy checkbox
+06:23:50.106 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked in Continue
+06:23:50.107 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation of confirmation message..
+06:23:50.248 [main] INFO  testCases.TC001_AccountRegistrationTest - End of TC001_AccountRegistrationTest
+06:23:53.459 [main] INFO  testCases.TC002_LoginTest - Starting of TC002_LoginTest
